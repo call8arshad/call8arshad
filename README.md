@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://app.daily.dev/arshadKhan"><img src="https://api.daily.dev/devcards/0acd2f08a94b4286a287c2afe57c5c0d.png?r=ftq" width="400" alt="Arshad's Dev Card"/></a> -->
 
-<a href="https://app.daily.dev/coding_inbuilt"><img src="https://api.daily.dev/devcards/0acd2f08a94b4286a287c2afe57c5c0d.png?r=rmp" width="400" alt="Arshad's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/coding_inbuilt"><img src="https://api.daily.dev/devcards/0acd2f08a94b4286a287c2afe57c5c0d.png?r=rmp" width="400" alt="Arshad's Dev Card"/></a> -->
 
 
 
-<!-- <a href="https://app.daily.dev/coding_inbuilt"><img src="https://github.com/call8arshad/call8arshad/blob/master/devcard.svg" width="400" alt="Arshad's Dev Card"/></a> -->
+<a href="https://app.daily.dev/coding_inbuilt"><img src="https://github.com/call8arshad/call8arshad/blob/main/devcard.svg" width="400" alt="Arshad's Dev Card"/></a>
+
