@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/call8arshad/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=call8arshad&repo=convoychat" />
 </a> -->
+
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
