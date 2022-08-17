@@ -41,7 +41,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=call8arshad&repo=convoychat" />
 </a> -->
 
-
+## Operating System
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+
+## Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JavaScript](https://user-images.githubusercontent.com/11881744/185058328-7f69f4cd-8015-4852-991b-ababeab52d59.png)
