@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 &hide=stars,commits,prs,issues,contribs
 -->
 ![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=call8arshad&show_icons=true&theme=radical)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=call8arshad&repo=github-readme-stats)](https://github.com/call8arshad/github-readme-stats&show_owner=true) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=call8arshad&layout=compact)](https://github.com/call8arshad/github-readme-stats&theme=radical)
