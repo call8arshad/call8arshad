@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/coding_inbuilt"><img src="https://github.com/call8arshad/call8arshad/blob/main/devcard.svg" width="400" alt="Arshad's Dev Card"/></a>
 
+<!-- use &hid= to hide
+&hide=stars,commits,prs,issues,contribs
+-->
+![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=call8arshad&show_icons=true&theme=radical)
