@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- use &hid= to hide
 &hide=stars,commits,prs,issues,contribs
 -->
-![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=call8arshad&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=call8arshad&show_icons=true&theme=radical)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=call8arshad&repo=github-readme-stats)](https://github.com/call8arshad/github-readme-stats&show_owner=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=call8arshad&layout=compact)](https://github.com/call8arshad/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=call8arshad&layout=compact)](https://github.com/call8arshad/github-readme-stats&theme=radical)
 
 <!-- Enable belwo for alignment side by side -->
 <!-- <a href="https://github.com/call8arshad/github-readme-stats">
@@ -42,9 +42,18 @@ Here are some ideas to get you started:
 </a> -->
 
 ## Operating System
+<div >
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
+
+  <code><img width="100" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything" title="Ask Me Anything"/></code>
+</div>
+<!--
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+-->
 
 
 ## Languages
